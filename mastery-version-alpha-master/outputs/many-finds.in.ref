@@ -1,0 +1,14 @@
+finding all completions of prefix "abcdefg":
+abcdefg
+finding all completions of prefix "abcdef":
+abcdef abcdefg
+finding all completions of prefix "abcde":
+abcde abcdef abcdefg
+finding all completions of prefix "abcd":
+abcd abcde abcdef abcdefg
+finding all completions of prefix "abc":
+abc abcd abcde abcdef abcdefg
+finding all completions of prefix "ab":
+ab abc abcd abcde abcdef abcdefg
+finding all completions of prefix "a":
+a ab abc abcd abcde abcdef abcdefg
